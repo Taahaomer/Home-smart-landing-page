@@ -53,7 +53,7 @@ A modern landing page designed for a Smart Home platform, allowing users to expl
   ![main section](screenshots/main-section.png)
   ![features section](screenshots/features-section.png)
   ![partners section](screenshots/partners-section.png)
-  !contact section](screenshots/contact-section.png)
+  ![contact section](screenshots/contact-section.png)
 💡 Purpose
 
 This project was built to practice and demonstrate:
