@@ -56,9 +56,9 @@ A modern landing page designed for a Smart Home platform, allowing users to expl
   ![contact section](screenshots/contact-section.png)
 💡 Purpose
 
-This project was built to practice and demonstrate:
+This project was built to practice and demonstrate:<br>
 
-Tailwind CSS layout techniques
-Responsive web design
-UI component structuring
+Tailwind CSS layout techniques, <br>
+Responsive web design,<br>
+UI component structuring,<br>
 Accessibility best practices
